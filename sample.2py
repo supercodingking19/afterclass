@@ -1,3 +1,4 @@
 Hi = 11000100010100
 
 print(hi)
+print hello
